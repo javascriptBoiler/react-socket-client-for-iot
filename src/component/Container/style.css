@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: row; 
+    gap: 10;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center;
+    height: 90vh;
+    overflow: auto;
+    position: relative
+}
